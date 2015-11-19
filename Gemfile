@@ -18,6 +18,7 @@ gem 'coffee-rails', '~> 4.1.0'
 gem 'jquery-rails'
 
 
+
 gem 'therubyracer'
 gem 'execjs'
 gem 'mysql2','~>0.3.18'
